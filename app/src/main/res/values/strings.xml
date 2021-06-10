@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flight App</string>
+    <string name="button_login_enter">Giriş Yap</string>
+    <string name="editText_login_emial">Email</string>
+    <string name="editText_login_password">Şifre</string>
+    <string name="checkbox_login_rememberMe">Beni Hatırla</string>
+</resources>
